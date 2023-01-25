@@ -6,10 +6,10 @@ Projeto desenvolvido em React no evento Full Stack Challenge da Codar.me. A part
 Para visualizar a API <a href="https://github.com/lucasbf7/World-Cup-api">clique aqui</a>
 
 ## :wrench: Tecnologias utilizadas
-*TailWind
-*JavaScript
-*React
-*Vite
+* TailWind
+* JavaScript
+* React
+* Vite
 
 ## :rocket: Como rodar:
 
