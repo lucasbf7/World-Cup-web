@@ -13,9 +13,9 @@ Para visualizar a API <a href="https://github.com/lucasbf7/World-Cup-api">clique
 
 ## :camera: Fotos
 <div>
-  <img src="./public/assets/imagem/readme/cadastro.png" width="300px" />
-  <img src="./public/assets/imagem/readme/depalpite.png" width="300px" />
-  <img src="./public/assets/imagem/readme/palpite.png" width="300px" />
+  <img src="./public/assets/imagem/readme/cadastro.png" width="400px" />
+  <img src="./public/assets/imagem/readme/depalpite.png" width="400px" />
+  <img src="./public/assets/imagem/readme/palpite.png" width="400px" />
 </div>
 
 ## :rocket: Como rodar:
