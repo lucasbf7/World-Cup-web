@@ -11,6 +11,13 @@ Para visualizar a API <a href="https://github.com/lucasbf7/World-Cup-api">clique
 * React
 * Vite
 
+## :camera: Fotos
+<div>
+  <img src="./public/assets/imagem/readme/cadastro.png" width="300px" />
+  <img src="./public/assets/imagem/readme/depalpite.png" width="300px" />
+  <img src="./public/assets/imagem/readme/palpite.png" width="300px" />
+</div>
+
 ## :rocket: Como rodar:
 
 ### Instalação
